@@ -1,5 +1,7 @@
 <h1> Certificado da Imersão Gamedev JavaScript</h1>
 
+<img src="./assets/gamedev-logo.png" alt="Icons HTML and Css">
+
 <br>
 <h2>Para acessar o site:</h2>
 <blockquote><b>Git page: (https://brunarosa.github.io/Certificado_GameDev/)</b></blockquote>
