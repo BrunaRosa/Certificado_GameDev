@@ -2,7 +2,7 @@
 
 <br>
 <h2>Para acessar o site:</h2>
-<blockquote><b>Git page: (https://brunarosa.github.io/Imersao_GameDev/)</b></blockquote>
+<blockquote><b>Git page: (https://brunarosa.github.io/Certificado_GameDev/)</b></blockquote>
 
 <br>
 <h3>Linguagens utilizadas</h3>
